@@ -8,6 +8,10 @@ A small study buddy that turns class notes into a summary, flashcards, and a pra
 
 Open the live site, paste notes, then choose **Quick summary**, **Flashcards**, or **Practice quiz**. You can also open a plain text file. Notes are saved in the same browser on the same device.
 
+## Accessibility
+
+The page shows keyboard focus, flashcards work with Enter or Space, and animations respect reduced-motion settings.
+
 ## Run locally
 
 Open `index.html` in a browser. No install or build step is needed.
