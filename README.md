@@ -1,15 +1,17 @@
 # Study Sprout
 
-A small study buddy website that turns class notes into a summary, flashcards, and a practice quiz. It also lets you copy a prompt for an AI chat if you choose to use one. The built-in tools run in the browser and do not send notes to a server.
+**Live site:** https://shanmukhapriyamalladi73-prog.github.io/study-sprout/
 
-## Run it
+A small study buddy that turns class notes into a summary, flashcards, and a practice quiz. You can also copy a prompt for an AI chat if you choose. The built-in tools run in the browser; notes are not sent to an AI service.
+
+## Use it
+
+Open the live site, paste notes, then choose **Quick summary**, **Flashcards**, or **Practice quiz**. You can also open a plain text file. Notes are saved in the same browser on the same device.
+
+## Run locally
 
 Open `index.html` in a browser. No install or build step is needed.
 
-## Publish with GitHub Pages
+## Publishing updates
 
-1. Create a **public** GitHub repository named `study-sprout` and upload these files, keeping the `.github/workflows/deploy.yml` path intact.
-2. In the repository, open **Settings → Pages** and set the build and deployment source to **GitHub Actions**.
-3. Wait for the **Deploy to GitHub Pages** workflow to finish. The site address will be `https://YOUR-USERNAME.github.io/study-sprout/`.
-
-Every push to the `main` branch will publish the latest version. Since the repository is public, anyone can view or copy its files. Keep personal notes, passwords, and API keys out of the repository.
+The public repository deploys through GitHub Pages. Push changes to the `main` branch to publish the latest version. Keep personal notes, passwords, and API keys out of this repository.
