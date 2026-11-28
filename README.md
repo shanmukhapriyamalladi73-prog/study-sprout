@@ -11,6 +11,8 @@ Open the live site, paste notes, then choose **Quick summary**, **Flashcards**, 
 
 Study Sprout reads text PDFs directly. It uses English OCR for images and scanned PDF pages. You can add up to eight files at once, up to 25 MB each; PDFs can have up to 40 pages. The first time you use PDF or image reading, the browser downloads the reading tools from a CDN; PDF reading tries a backup CDN if the first one is unavailable. Files are processed in your browser and are not uploaded.
 
+The quick summary shows one short version followed by supporting details. It uses the wording in your notes and does not add facts. Password-protected PDFs need to be unlocked first; if a PDF is damaged, download or save a fresh copy and try again.
+
 Notes are saved in the same browser on the same device.
 
 ## Accessibility
